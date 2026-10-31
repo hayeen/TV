@@ -1,7 +1,8 @@
 {
-  "name": "我的源列表（合并去重）",
+  "name": "kan-tv",
   "version": 2,
   "sources": [
+    {"name": "电影天堂", "url": "https://caiji.dyttzyapi.com/api.php/provide/vod", "detail": "http://caiji.dyttzyapi.com", "isAdult": false},
     {"name": "暴风资源", "url": "https://bfzyapi.com/api.php/provide/vod", "isAdult": false},
     {"name": "非凡资源", "url": "https://cj.ffzyapi.com/api.php/provide/vod", "isAdult": false},
     {"name": "量子资源", "url": "https://cj.lziapi.com/api.php/provide/vod", "isAdult": false},
@@ -11,7 +12,6 @@
     {"name": "如意资源", "url": "https://cj.rycjapi.com/api.php/provide/vod", "isAdult": false},
     {"name": "极速资源", "url": "https://jszyapi.com/api.php/provide/vod", "isAdult": false},
     {"name": "新狼资源", "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod", "isAdult": false},
-    {"name": "电影天堂", "url": "https://caiji.dyttzyapi.com/api.php/provide/vod", "isAdult": false, "detail": "http://caiji.dyttzyapi.com"},
     {"name": "360资源", "url": "https://360zy.com/api.php/provide/vod", "isAdult": false},
     {"name": "天涯资源", "url": "https://tyyszy.com/api.php/provide/vod", "isAdult": false},
     {"name": "小猫咪资源", "url": "https://zy.xiaomaomi.cc/api.php/provide/vod", "isAdult": false},
